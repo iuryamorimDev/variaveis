@@ -27,3 +27,6 @@ console.log(nome);
 
 var idade = "25";
 console.log(idade);
+
+var casao = "home";
+console.log(casao);
